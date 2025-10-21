@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "2627 Donnelly Drive",
     "city": "Ottawa",
@@ -130,4 +130,4 @@
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse"
   }
-}
+};
